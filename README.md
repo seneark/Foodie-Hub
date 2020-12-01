@@ -1,8 +1,8 @@
-#FoodieHub
-####*Restaurant Recommendation App*
+# FoodieHub
+#### Restaurant Recommendation App
 ![Restaurant Photo](./Code/assets/5284.jpg)
 
-##Table Of Contents
+## Table Of Contents
 - [About](#about)
 - [Installation Prerequisites](#installation-prerequisites)
 - [How to Run this React-Native App](#how-to-run-this-react-native-app)
