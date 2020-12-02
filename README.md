@@ -43,7 +43,7 @@ The App has following functionalities :
 5. Scan QR Code to run the app in your device
 6. Enjoy!!! :ramen: :coffee: :hamburger:
 
-##Images
+## Images
 Login Page|Profile Page|Restaurant Page
 :---------------------------------:|:---------------------------------:|:---------------------------------:|
 <img src="/Code/assets/1.png" width="250">|<img src="/Code/assets/2.png" width="250">|<img src="/Code/assets/3.png" width="250">
